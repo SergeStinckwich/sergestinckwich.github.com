@@ -65,9 +65,17 @@
                         
                     
                         
+                    
+                        
+                    
+                        
+                    
+                        
                         <li typeof="sioc:Page" about="/pages/supervizing" class="">
                             <a href="/pages/supervizing" property="dc:title">Students supervizing</a>
                         </li>
+                        
+                    
                         
                     
                         
@@ -106,44 +114,61 @@
                     
                         
                     
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
                 </ul>
             </div>
         </div>
     </div>
     <div class="container">
         <section id="content" class="content">
-            <p>This is a Coffee Parser Example.
-
-</p>
-<p>The title of this page is: Coffee Parser Example
-
-</p>
-<p>The capitlized title of this page is: COFFEE PARSER EXAMPLE
-
-</p>
+            <p>This is a Coffee Parser Example.</p>
+<p>The title of this page is: Coffee Parser Example</p>
+<p>The capitlized title of this page is: COFFEE PARSER EXAMPLE</p>
 <p>The capitlized title of this page is: COFFEE PARSER EXAMPLE</p>
 
         </section>
         <footer>
             <p>&copy; Serge Stinckwich 2012-2013</p>
             <p style="float:right;">
-                This website was last updated at 2013-02-26T08:58:07.286Z
+                This website was last updated at 2013-03-18T09:11:25.748Z
             </p>
         </footer>
     </div><!-- /container -->
 
     <!-- Scripts -->
-    <script  src="/socket.io/socket.io.js"></script><script >var socket = io.connect('/docpad-live-reload');
-socket.on('regenerated',function(){
-	document.location.reload();
-});</script><script defer="defer"  src="/vendor/jquery-1.6.4.min.js"></script><script defer="defer"  src="/vendor/prettify.js"></script><script defer="defer"  src="/scripts/script.js"></script>
+    <script >(function(){
+	// Did we just livereload?
+var log = true && localStorage && console && console.log && true;
+if ( log && localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReloaded at', new Date())
+}
+
+// Listen for the regenerated event
+// and perform a reload of the page when the event occurs
+var listen = function(){
+	var socket = io.connect('/docpad-livereload');
+	socket.on('regenerated',function(){
+		if ( log ) {
+	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+}
+document.location.reload();
+	});
+};
+	if ( typeof io !== 'undefined' ) {
+		listen();
+	} else {
+		// Inject socket.io into our page then listen once loaded
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+};
+		inject();
+	}
+})();</script><script defer="defer"  src="/vendor/jquery-1.6.4.min.js"></script><script defer="defer"  src="/vendor/prettify.js"></script><script defer="defer"  src="/scripts/script.js"></script>
 </body>
 </html>
