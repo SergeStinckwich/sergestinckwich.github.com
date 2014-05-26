@@ -3,7 +3,7 @@
 	<title>Benjamin Lupton</title>
 	<link href="http://balupton.com/atom.xml" rel="self"/>
 	<link href="http://balupton.com"/>
-	<updated>2014-04-09T12:48:11.028Z</updated>
+	<updated>2014-05-26T12:59:17.567Z</updated>
 	<id>http://balupton.com</id>
 	<author>
 		<name>Benjamin Lupton</name>
@@ -133,6 +133,22 @@ _gaq.push(['_trackPageview']);
 						
 					
 						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
 						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/contact&quot; class=&quot;&quot;&gt;
 							&lt;a href=&quot;/pages/contact&quot; property=&quot;dc:title&quot;&gt;Contact Info&lt;/a&gt;
 						&lt;/li&gt;
@@ -210,22 +226,6 @@ _gaq.push(['_trackPageview']);
 					
 						
 					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
 				&lt;/ul&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
@@ -244,7 +244,7 @@ _gaq.push(['_trackPageview']);
 		&lt;footer&gt;
 			&lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
 			&lt;p style=&quot;float:right;&quot;&gt;
-				This website was last updated at 2014-04-09T12:48:11.028Z
+				This website was last updated at 2014-05-26T12:59:17.567Z
 			&lt;/p&gt;
 		&lt;/footer&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
@@ -378,6 +378,22 @@ _gaq.push(['_trackPageview']);
 						
 					
 						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
 						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/contact&quot; class=&quot;&quot;&gt;
 							&lt;a href=&quot;/pages/contact&quot; property=&quot;dc:title&quot;&gt;Contact Info&lt;/a&gt;
 						&lt;/li&gt;
@@ -455,22 +471,6 @@ _gaq.push(['_trackPageview']);
 					
 						
 					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
 				&lt;/ul&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
@@ -489,7 +489,7 @@ _gaq.push(['_trackPageview']);
 		&lt;footer&gt;
 			&lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
 			&lt;p style=&quot;float:right;&quot;&gt;
-				This website was last updated at 2014-04-09T12:48:11.028Z
+				This website was last updated at 2014-05-26T12:59:17.567Z
 			&lt;/p&gt;
 		&lt;/footer&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
@@ -549,20 +549,20 @@ var inject = function(){
 	
 		
 			<entry>
-				<title>This is an ignored post</title>
-				<link href="http://balupton.com/posts/ignored"/>
+				<title>Read More</title>
+				<link href="http://balupton.com/posts/readmore"/>
 				<updated>2012-10-28T14:52:35.000Z</updated>
-				<id>http://balupton.com/posts/ignored</id>
+				<id>http://balupton.com/posts/readmore</id>
 				<content type="html"></content>
 			</entry>
 		
 	
 		
 			<entry>
-				<title>Read More</title>
-				<link href="http://balupton.com/posts/readmore"/>
+				<title>This is an ignored post</title>
+				<link href="http://balupton.com/posts/ignored"/>
 				<updated>2012-10-28T14:52:35.000Z</updated>
-				<id>http://balupton.com/posts/readmore</id>
+				<id>http://balupton.com/posts/ignored</id>
 				<content type="html"></content>
 			</entry>
 		
