@@ -3,7 +3,7 @@
 	<title>Benjamin Lupton</title>
 	<link href="http://balupton.com/atom.xml" rel="self"/>
 	<link href="http://balupton.com"/>
-	<updated>2014-05-26T12:59:17.567Z</updated>
+	<updated>2014-06-29T12:09:55.023Z</updated>
 	<id>http://balupton.com</id>
 	<author>
 		<name>Benjamin Lupton</name>
@@ -75,7 +75,7 @@
 	&lt;meta name=&quot;description&quot; content=&quot;Website of Serge Stinckwich&quot; /&gt;
 	&lt;meta name=&quot;keywords&quot; content=&quot;stinckwich, serge stinckwich, smalltalk, robotics, rescue robotics, domain-specific languages, DSL, programming, TDD&quot; /&gt;
 	&lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
-	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.63.8&quot; /&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.66.0&quot; /&gt;
 
 	&lt;!-- Icons --&gt;
 	&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
@@ -244,7 +244,7 @@ _gaq.push(['_trackPageview']);
 		&lt;footer&gt;
 			&lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
 			&lt;p style=&quot;float:right;&quot;&gt;
-				This website was last updated at 2014-05-26T12:59:17.567Z
+				This website was last updated at 2014-06-29T12:09:55.023Z
 			&lt;/p&gt;
 		&lt;/footer&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
@@ -320,7 +320,7 @@ var inject = function(){
 	&lt;meta name=&quot;description&quot; content=&quot;Website of Serge Stinckwich&quot; /&gt;
 	&lt;meta name=&quot;keywords&quot; content=&quot;stinckwich, serge stinckwich, smalltalk, robotics, rescue robotics, domain-specific languages, DSL, programming, TDD&quot; /&gt;
 	&lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
-	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.63.8&quot; /&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.66.0&quot; /&gt;
 
 	&lt;!-- Icons --&gt;
 	&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
@@ -489,7 +489,7 @@ _gaq.push(['_trackPageview']);
 		&lt;footer&gt;
 			&lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
 			&lt;p style=&quot;float:right;&quot;&gt;
-				This website was last updated at 2014-05-26T12:59:17.567Z
+				This website was last updated at 2014-06-29T12:09:55.023Z
 			&lt;/p&gt;
 		&lt;/footer&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
@@ -549,20 +549,20 @@ var inject = function(){
 	
 		
 			<entry>
-				<title>Read More</title>
-				<link href="http://balupton.com/posts/readmore"/>
+				<title>This is an ignored post</title>
+				<link href="http://balupton.com/posts/ignored"/>
 				<updated>2012-10-28T14:52:35.000Z</updated>
-				<id>http://balupton.com/posts/readmore</id>
+				<id>http://balupton.com/posts/ignored</id>
 				<content type="html"></content>
 			</entry>
 		
 	
 		
 			<entry>
-				<title>This is an ignored post</title>
-				<link href="http://balupton.com/posts/ignored"/>
+				<title>Read More</title>
+				<link href="http://balupton.com/posts/readmore"/>
 				<updated>2012-10-28T14:52:35.000Z</updated>
-				<id>http://balupton.com/posts/ignored</id>
+				<id>http://balupton.com/posts/readmore</id>
 				<content type="html"></content>
 			</entry>
 		
