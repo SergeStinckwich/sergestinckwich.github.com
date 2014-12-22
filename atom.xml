@@ -3,7 +3,7 @@
 	<title>Benjamin Lupton</title>
 	<link href="http://balupton.com/atom.xml" rel="self"/>
 	<link href="http://balupton.com"/>
-	<updated>2014-11-07T09:26:14.763Z</updated>
+	<updated>2014-12-22T15:39:50.793Z</updated>
 	<id>http://balupton.com</id>
 	<author>
 		<name>Benjamin Lupton</name>
@@ -155,14 +155,14 @@ _gaq.push(['_trackPageview']);
 						
 					
 						
-						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/projects&quot; class=&quot;&quot;&gt;
-							&lt;a href=&quot;/pages/projects&quot; property=&quot;dc:title&quot;&gt;Research Projects&lt;/a&gt;
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/event&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/event&quot; property=&quot;dc:title&quot;&gt;Events&lt;/a&gt;
 						&lt;/li&gt;
 						
 					
 						
-						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/event&quot; class=&quot;&quot;&gt;
-							&lt;a href=&quot;/pages/event&quot; property=&quot;dc:title&quot;&gt;Events&lt;/a&gt;
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/projects&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/projects&quot; property=&quot;dc:title&quot;&gt;Research Projects&lt;/a&gt;
 						&lt;/li&gt;
 						
 					
@@ -246,7 +246,7 @@ _gaq.push(['_trackPageview']);
 		&lt;footer&gt;
 			&lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
 			&lt;p style=&quot;float:right;&quot;&gt;
-				This website was last updated at 2014-11-07T09:26:14.763Z
+				This website was last updated at 2014-12-22T15:39:50.793Z
 			&lt;/p&gt;
 		&lt;/footer&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
@@ -402,14 +402,14 @@ _gaq.push(['_trackPageview']);
 						
 					
 						
-						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/projects&quot; class=&quot;&quot;&gt;
-							&lt;a href=&quot;/pages/projects&quot; property=&quot;dc:title&quot;&gt;Research Projects&lt;/a&gt;
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/event&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/event&quot; property=&quot;dc:title&quot;&gt;Events&lt;/a&gt;
 						&lt;/li&gt;
 						
 					
 						
-						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/event&quot; class=&quot;&quot;&gt;
-							&lt;a href=&quot;/pages/event&quot; property=&quot;dc:title&quot;&gt;Events&lt;/a&gt;
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/projects&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/projects&quot; property=&quot;dc:title&quot;&gt;Research Projects&lt;/a&gt;
 						&lt;/li&gt;
 						
 					
@@ -493,7 +493,7 @@ _gaq.push(['_trackPageview']);
 		&lt;footer&gt;
 			&lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
 			&lt;p style=&quot;float:right;&quot;&gt;
-				This website was last updated at 2014-11-07T09:26:14.763Z
+				This website was last updated at 2014-12-22T15:39:50.793Z
 			&lt;/p&gt;
 		&lt;/footer&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
