@@ -3,7 +3,7 @@
 	<title>Benjamin Lupton</title>
 	<link href="http://balupton.com/atom.xml" rel="self"/>
 	<link href="http://balupton.com"/>
-	<updated>2014-12-22T15:39:50.793Z</updated>
+	<updated>2015-05-05T07:20:10.887Z</updated>
 	<id>http://balupton.com</id>
 	<author>
 		<name>Benjamin Lupton</name>
@@ -75,7 +75,7 @@
 	&lt;meta name=&quot;description&quot; content=&quot;Website of Serge Stinckwich&quot; /&gt;
 	&lt;meta name=&quot;keywords&quot; content=&quot;stinckwich, serge stinckwich, smalltalk, robotics, rescue robotics, domain-specific languages, DSL, programming, TDD&quot; /&gt;
 	&lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
-	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.69.0&quot; /&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.78.1&quot; /&gt;
 
 	&lt;!-- Icons --&gt;
 	&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
@@ -228,6 +228,8 @@ _gaq.push(['_trackPageview']);
 					
 						
 					
+						
+					
 				&lt;/ul&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
@@ -246,7 +248,7 @@ _gaq.push(['_trackPageview']);
 		&lt;footer&gt;
 			&lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
 			&lt;p style=&quot;float:right;&quot;&gt;
-				This website was last updated at 2014-12-22T15:39:50.793Z
+				This website was last updated at 2015-05-05T07:20:10.887Z
 			&lt;/p&gt;
 		&lt;/footer&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
@@ -322,7 +324,7 @@ var inject = function(){
 	&lt;meta name=&quot;description&quot; content=&quot;Website of Serge Stinckwich&quot; /&gt;
 	&lt;meta name=&quot;keywords&quot; content=&quot;stinckwich, serge stinckwich, smalltalk, robotics, rescue robotics, domain-specific languages, DSL, programming, TDD&quot; /&gt;
 	&lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
-	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.69.0&quot; /&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.78.1&quot; /&gt;
 
 	&lt;!-- Icons --&gt;
 	&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
@@ -475,6 +477,8 @@ _gaq.push(['_trackPageview']);
 					
 						
 					
+						
+					
 				&lt;/ul&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
@@ -493,7 +497,7 @@ _gaq.push(['_trackPageview']);
 		&lt;footer&gt;
 			&lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
 			&lt;p style=&quot;float:right;&quot;&gt;
-				This website was last updated at 2014-12-22T15:39:50.793Z
+				This website was last updated at 2015-05-05T07:20:10.887Z
 			&lt;/p&gt;
 		&lt;/footer&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
@@ -569,6 +573,8 @@ var inject = function(){
 				<id>http://balupton.com/posts/readmore</id>
 				<content type="html"></content>
 			</entry>
+		
+	
 		
 	
 		
