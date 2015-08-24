@@ -85,7 +85,17 @@ DSLRob 2015 is an official IROS 2015 workshop, and will thus be collocated with 
  * [Sebastian Wrede](http://www.cor-lab.de/user/13), Bielefeld University, Germany
 
 # Program committee
-TBA
+ * Andreas Wortmann, RWTH Aachen University, Germany
+ * Luc Fabresse, Ecole des Mines Douai, France
+ * Nico Hochgeschwender, Bonn-Rhine-Sieg University of Applied Sciences, Germany
+ * Geoffrey Biggs, National Institute of Advanced Industrial Science and Technology, Japan
+ * Johan Fabry, PLEIAD lab - Department of Computer Science (DCC), University of Chile
+ * Alex Lotz, University of Applied Sciences, Ulm, Germany
+ * Mikal Ziane, Lip6, Laboratoire d'Informatique de Paris, France
+ * Ali Paikan, Italian Institute of Technology (IIT), Italy
+ * Noury Bouraqadi, Université de Lille Nord de France, Ecole des Mines de Douai, France
+ * Juan F. Ingles-Romero, Technical University of Cartagena, Spain
+ * Mirko Bordignon, Fraunhofer IPA, Germany
 
 # Contact
 Please contact Serge Stinckwich (Serge DOT Stinckwich AT gmail DOT com) for further enquiries about this workshop.
