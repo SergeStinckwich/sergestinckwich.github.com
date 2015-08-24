@@ -49,13 +49,21 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 
 We are looking for submission of **full research papers and experiences reports** (up to 8 pages) and **work in progress submissions** (up to 4 pages). **Please create your account on Easy Chair website as soon as possible if you intend to submit a paper**: http://www.easychair.org/conferences/?conf=dslrob2015
 
+# Late-Breaking Reports
+The Late-Breaking Reports (LBR) session at DSLRob-15 is an opportunity to present and discuss early stage research results, tool experience reports or position papers in scope of the workshop topics. LBR submissions will follow the same guidelines as the full papers, using the same MS Word and LaTeX2e templates referenced above but are limited to an extended abstract of one page length. Please submit the late breaking reports by email to the workshop chairs by September, 07th, 11:59 pm PDT (Pacific Daylight Time).
+
+The late-breaking reports are presented in a dedicated poster session during DSLRob-15 at September, 28th. All posters should be A0 format (36″ x 48″ or 841 x 1189mm) in portrait. All submissions will be reviewed by the workshop editors. Accepted late-breaking reports will be included in the post-workshop proceedings.
+
 # Important Dates
 
 The tentative schedule is as follows:
 
  * August 15th, 2015 at midnight PDT (Pacific Daylight Time): Deadline for workshop papers submission
  * September 7th, 2015: Paper acceptance notification
+ * September 7th, 2015: Submission of late breaking reports
+ * September 14th, 2015: Notification of late breaking reports acceptance
  * September 21st, 2015: Pre-camera ready submission
+ * September 28th, 2015: DSLRob-15 at IROS
 
 As is the case for previous DSLRob workshops, formal post-workshop proceedings will be permanently stored on the publicly available site arxiv.org.
 
