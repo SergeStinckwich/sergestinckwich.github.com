@@ -3,7 +3,7 @@
 	<title>Benjamin Lupton</title>
 	<link href="http://balupton.com/atom.xml" rel="self"/>
 	<link href="http://balupton.com"/>
-	<updated>2016-07-28T13:17:58.934Z</updated>
+	<updated>2016-11-15T13:41:50.091Z</updated>
 	<id>http://balupton.com</id>
 	<author>
 		<name>Benjamin Lupton</name>
@@ -75,7 +75,7 @@
 	&lt;meta name=&quot;description&quot; content=&quot;Website of Serge Stinckwich&quot; /&gt;
 	&lt;meta name=&quot;keywords&quot; content=&quot;stinckwich, serge stinckwich, smalltalk, robotics, rescue robotics, domain-specific languages, DSL, programming, TDD&quot; /&gt;
 	&lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
-	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.78.1&quot; /&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.79.0&quot; /&gt;
 
 	&lt;!-- Icons --&gt;
 	&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
@@ -161,14 +161,14 @@ _gaq.push(['_trackPageview']);
 						
 					
 						
-						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing&quot; class=&quot;&quot;&gt;
-							&lt;a href=&quot;/pages/supervizing&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/projects&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/projects&quot; property=&quot;dc:title&quot;&gt;Research Projects&lt;/a&gt;
 						&lt;/li&gt;
 						
 					
 						
-						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/projects&quot; class=&quot;&quot;&gt;
-							&lt;a href=&quot;/pages/projects&quot; property=&quot;dc:title&quot;&gt;Research Projects&lt;/a&gt;
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/supervizing&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
 						&lt;/li&gt;
 						
 					
@@ -176,6 +176,8 @@ _gaq.push(['_trackPageview']);
 						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/teaching&quot; class=&quot;&quot;&gt;
 							&lt;a href=&quot;/pages/teaching&quot; property=&quot;dc:title&quot;&gt;Teaching&lt;/a&gt;
 						&lt;/li&gt;
+						
+					
 						
 					
 						
@@ -250,7 +252,7 @@ _gaq.push(['_trackPageview']);
 		&lt;footer&gt;
 			&lt;p&gt;&amp;copy; Serge Stinckwich 2012-2015&lt;/p&gt;
 			&lt;p style=&quot;float:right;&quot;&gt;
-				This website was last updated at 2016-07-28T13:17:58.934Z
+				This website was last updated at 2016-11-15T13:41:50.091Z
 			&lt;/p&gt;
 		&lt;/footer&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
@@ -291,7 +293,7 @@ var inject = function(){
 	var t = document.createElement('script');
 	t.type = 'text/javascript';
 	t.async = 'async';
-	t.src = '/primus/primus.js';
+	t.src = '/docpad-livereload/primus.js';
 	t.onload = listen;
 	var s = document.getElementsByTagName('script')[0];
 	s.parentNode.insertBefore(t, s);
@@ -305,16 +307,6 @@ var inject = function(){
 &lt;/body&gt;
 &lt;/html&gt;
 </content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title>This is an ignored post</title>
-				<link href="http://balupton.com/posts/ignored"/>
-				<updated>2012-10-28T14:52:35.000Z</updated>
-				<id>http://balupton.com/posts/ignored</id>
-				<content type="html"></content>
 			</entry>
 		
 	
@@ -336,7 +328,7 @@ var inject = function(){
 	&lt;meta name=&quot;description&quot; content=&quot;Website of Serge Stinckwich&quot; /&gt;
 	&lt;meta name=&quot;keywords&quot; content=&quot;stinckwich, serge stinckwich, smalltalk, robotics, rescue robotics, domain-specific languages, DSL, programming, TDD&quot; /&gt;
 	&lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
-	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.78.1&quot; /&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.79.0&quot; /&gt;
 
 	&lt;!-- Icons --&gt;
 	&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
@@ -422,14 +414,14 @@ _gaq.push(['_trackPageview']);
 						
 					
 						
-						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing&quot; class=&quot;&quot;&gt;
-							&lt;a href=&quot;/pages/supervizing&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/projects&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/projects&quot; property=&quot;dc:title&quot;&gt;Research Projects&lt;/a&gt;
 						&lt;/li&gt;
 						
 					
 						
-						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/projects&quot; class=&quot;&quot;&gt;
-							&lt;a href=&quot;/pages/projects&quot; property=&quot;dc:title&quot;&gt;Research Projects&lt;/a&gt;
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/supervizing&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
 						&lt;/li&gt;
 						
 					
@@ -437,6 +429,8 @@ _gaq.push(['_trackPageview']);
 						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/teaching&quot; class=&quot;&quot;&gt;
 							&lt;a href=&quot;/pages/teaching&quot; property=&quot;dc:title&quot;&gt;Teaching&lt;/a&gt;
 						&lt;/li&gt;
+						
+					
 						
 					
 						
@@ -511,7 +505,7 @@ _gaq.push(['_trackPageview']);
 		&lt;footer&gt;
 			&lt;p&gt;&amp;copy; Serge Stinckwich 2012-2015&lt;/p&gt;
 			&lt;p style=&quot;float:right;&quot;&gt;
-				This website was last updated at 2016-07-28T13:17:58.934Z
+				This website was last updated at 2016-11-15T13:41:50.091Z
 			&lt;/p&gt;
 		&lt;/footer&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
@@ -552,7 +546,7 @@ var inject = function(){
 	var t = document.createElement('script');
 	t.type = 'text/javascript';
 	t.async = 'async';
-	t.src = '/primus/primus.js';
+	t.src = '/docpad-livereload/primus.js';
 	t.onload = listen;
 	var s = document.getElementsByTagName('script')[0];
 	s.parentNode.insertBefore(t, s);
@@ -571,12 +565,24 @@ var inject = function(){
 	
 		
 			<entry>
+				<title>This is an ignored post</title>
+				<link href="http://balupton.com/posts/ignored"/>
+				<updated>2012-10-28T14:52:35.000Z</updated>
+				<id>http://balupton.com/posts/ignored</id>
+				<content type="html"></content>
+			</entry>
+		
+	
+		
+			<entry>
 				<title>Read More</title>
 				<link href="http://balupton.com/posts/readmore"/>
 				<updated>2012-10-28T14:52:35.000Z</updated>
 				<id>http://balupton.com/posts/readmore</id>
 				<content type="html"></content>
 			</entry>
+		
+	
 		
 	
 		
